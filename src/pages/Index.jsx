@@ -20,7 +20,7 @@ const Index = () => {
           <VStack>
             <Icon as={FaChartLine} w={10} h={10} />
             <Heading size="md">Analysis Agents</Heading>
-            <Text>Utilize advanced machine learning algorithms to predict trends, optimize strategies, and enhance decision-making capabilities across various business functions.</Text>
+            <Text>Utilize machine learning to predict trends, optimize strategies, and enhance decision-making.</Text>
           </VStack>
         </Box>
 
@@ -29,7 +29,7 @@ const Index = () => {
           <VStack>
             <Icon as={FaComments} w={10} h={10} />
             <Heading size="md">Customer Interaction Agents</Heading>
-            <Text>Automate responses and guide users through complex processes with sophisticated natural language processing, enhancing customer support capabilities and engagement.</Text>
+            <Text>Automate responses and guide users through processes, enhancing customer support capabilities.</Text>
           </VStack>
         </Box>
 
@@ -38,7 +38,7 @@ const Index = () => {
           <VStack>
             <Icon as={FaNetworkWired} w={10} h={10} />
             <Heading size="md">Integration Agents</Heading>
-            <Text>Connect disparate systems using robust integration frameworks to ensure seamless data flow and communication across multiple platforms.</Text>
+            <Text>Connect disparate systems to ensure seamless data flow and communication.</Text>
           </VStack>
         </Box>
 
@@ -47,7 +47,7 @@ const Index = () => {
           <VStack>
             <Icon as={FaDatabase} w={10} h={10} />
             <Heading size="md">Data Processing Agents</Heading>
-            <Text>Automate data entry, cleansing, and formatting with cutting-edge technologies to boost efficiency, accuracy, and reduce operational costs.</Text>
+            <Text>Automate data entry, cleansing, and formatting to boost efficiency and accuracy.</Text>
           </VStack>
         </Box>
       </SimpleGrid>
